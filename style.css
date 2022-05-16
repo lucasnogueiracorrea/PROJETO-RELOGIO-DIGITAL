@@ -73,3 +73,18 @@ footer{
     margin-top: 288px;
     text-align: center;
 }
+
+@media(max-width: 640px ){
+    #center{
+        width: 400px;
+    }
+
+    header > h1{
+        margin-top: 10px;
+    }
+    footer{
+        margin-top: 369px;
+    }
+}
+
+@media(max-width ){}
